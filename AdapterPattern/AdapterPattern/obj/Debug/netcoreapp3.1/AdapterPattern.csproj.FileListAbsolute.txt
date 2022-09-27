@@ -1,0 +1,14 @@
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.exe
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.deps.json
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.json
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.dev.json
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfo.cs
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.genruntimeconfig.cache
+C:\Users\irene\source\repos\EriniSabry_41810119\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.AssemblyReference.cache
