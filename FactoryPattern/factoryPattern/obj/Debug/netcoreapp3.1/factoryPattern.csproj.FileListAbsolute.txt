@@ -1,0 +1,14 @@
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\bin\Debug\netcoreapp3.1\factoryPattern.exe
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\bin\Debug\netcoreapp3.1\factoryPattern.deps.json
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\bin\Debug\netcoreapp3.1\factoryPattern.runtimeconfig.json
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\bin\Debug\netcoreapp3.1\factoryPattern.runtimeconfig.dev.json
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\bin\Debug\netcoreapp3.1\factoryPattern.dll
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\bin\Debug\netcoreapp3.1\factoryPattern.pdb
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.csproj.AssemblyReference.cache
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.AssemblyInfoInputs.cache
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.AssemblyInfo.cs
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.dll
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.pdb
+C:\Users\irene\source\repos\factoryPattern\factoryPattern\obj\Debug\netcoreapp3.1\factoryPattern.genruntimeconfig.cache
