@@ -1,0 +1,27 @@
+C:\Users\Mohamed Ashraf\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.exe
+C:\Users\Mohamed Ashraf\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.deps.json
+C:\Users\Mohamed Ashraf\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.runtimeconfig.json
+C:\Users\Mohamed Ashraf\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.runtimeconfig.dev.json
+C:\Users\Mohamed Ashraf\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.dll
+C:\Users\Mohamed Ashraf\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.pdb
+C:\Users\Mohamed Ashraf\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.csprojAssemblyReference.cache
+C:\Users\Mohamed Ashraf\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.AssemblyInfoInputs.cache
+C:\Users\Mohamed Ashraf\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.AssemblyInfo.cs
+C:\Users\Mohamed Ashraf\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Ashraf\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.dll
+C:\Users\Mohamed Ashraf\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.pdb
+C:\Users\Mohamed Ashraf\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.genruntimeconfig.cache
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.exe
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.deps.json
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.runtimeconfig.json
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.runtimeconfig.dev.json
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.dll
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\bin\Debug\netcoreapp3.1\ConsoleApp27.pdb
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.csproj.AssemblyReference.cache
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.GeneratedMSBuildEditorConfig.editorconfig
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.AssemblyInfoInputs.cache
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.AssemblyInfo.cs
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.csproj.CoreCompileInputs.cache
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.dll
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.pdb
+F:\cs ACU\SWE Semester 1\Software Engineering 2\Strategy Design pattern\ConsoleApp27\ConsoleApp27\obj\Debug\netcoreapp3.1\ConsoleApp27.genruntimeconfig.cache
